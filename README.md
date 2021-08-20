@@ -21,6 +21,10 @@ This is a command line app using inquirer that takes in information about team m
 ### Screenshot showing all pass tests and giving the user ability to enter data
 
   <img width="1440" alt="Screenshot 2021-08-20 at 13 30 58" src="https://user-images.githubusercontent.com/71897967/130233479-16a0b1eb-12be-480f-97fa-4c91976de7f9.png">
+  
+ ### Screenshot showing the output
+ 
+ <img width="668" alt="Screenshot 2021-08-20 at 13 36 10" src="https://user-images.githubusercontent.com/71897967/130234026-5b7dc334-090d-4193-b1ee-b9bf7b491208.png">
 
   ## Installation
   NPM INIT -Y, NPM I Inquirer. Please ensure Inquirer node modules are installed. Applicastion also uses jest for test purposes.
