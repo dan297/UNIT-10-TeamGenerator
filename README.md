@@ -1,5 +1,5 @@
 
-  # Good Read Me file generator
+  # Good Team Profile generator
 
   Table of Contents:
   1. [Description](#Description)
@@ -12,23 +12,18 @@
 
  ## Live video 
  
- https://drive.google.com/file/d/154MIhlyAwX3HI10MhUN9sYMRDofCsXj6/view
+ https://drive.google.com/file/d/1mjG3bgqFaxQ0sa0cT1T0bDW7FUnmrrs2/view
 
   ## Description 
-  When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions&mdash;this last part increases the likelihood that other developers will contribute to the success of the project. 
   
- The screenshot below shows the files used on VS code. As you can see the greyed out folder called 'node_modules' and 'package-lock-json'. Due to the size. of these I gitignore to block out these folders/files 
+This is a command line app using inquirer that takes in information about team members and creates new instances of employee classes depending on their role. Information is then rendered and spit out into an HTML employee dashboard. Classes pass 5 jest tests.
   
-  <img width="1020" alt="Screenshot 2021-08-11 at 02 37 45" src="https://user-images.githubusercontent.com/71897967/128956517-49fab815-6c10-4928-b7c4-6af76f4997cb.png">
-  
- The screenshot below shows the inquirer library on package.json after installing it with NPM.
-  
-  <img width="1023" alt="Screenshot 2021-08-11 at 02 38 00" src="https://user-images.githubusercontent.com/71897967/128956681-ca47f945-b97d-402e-a360-7a73a21c0e5f.png">
+### Screenshot showing all pass tests and giving the user ability to enter data
 
-
+  <img width="1440" alt="Screenshot 2021-08-20 at 13 30 58" src="https://user-images.githubusercontent.com/71897967/130233479-16a0b1eb-12be-480f-97fa-4c91976de7f9.png">
 
   ## Installation
-  NPM INIT -Y, NPM I Inquirer
+  NPM INIT -Y, NPM I Inquirer. Please ensure Inquirer node modules are installed. Applicastion also uses jest for test purposes.
 
   ## Usage
   N/A
@@ -40,7 +35,7 @@
   N/A
 
   ## Tests
-  N/A
+  Jest tests
 
   ## Questions
   For any questions use the following contact information:
